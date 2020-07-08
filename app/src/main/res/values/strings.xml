@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Single Meal</string>
+    <string name="add_food">Add Food</string>
+    <string name="protein">Protein: </string>
+    <string name="carbs">Carbs: </string>
+    <string name="veg">Veg: </string>
+    <string name="food_type">Type of Food</string>
+    <string name="cancel">Cancel</string>
+</resources>
